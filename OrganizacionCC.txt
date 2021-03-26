@@ -1,0 +1,26 @@
+El desarrollo tecnológico ha permitido que la computadora sea introducida en una gran cantidad de organizaciones, las cuales concentran la función informática en departamentos, unidades o centros de procesamiento de datos que se encargan de proporcionar los servicios de cómputo necesarios a la organización.
+
+Dentro de estos centros de cómputo se encuentran, además del equipo y programas que procesan la información, los recursos humanos especializados, el factor más importante, de cuya habilidad depende la satisfacción de las necesidades de cómputo de las organizaciones.
+
+Existen muchas y diferentes formas de organización de los centros de cómputo, así como del enlace de las funciones de cada grupo personal que ahí labora.
+En este tema veremos las áreas básicas por las que se encuentra integrado un centro de cómputo.
+
+Área directiva
+El área directiva realiza, en alto nivel, las funciones de planeación, organización, administración de personal y control; además de coordinar las actividades de las áreas que dependen de ella, se encarga de planear y controlar los recursos de información de un organismo.
+
+Área Técnica
+Esta área está integrada por expertos en informática y su principal función es brindar el soporte técnico especializado que se requiere en las actividades de cómputo.
+
+Área operativa
+Esta área se encarga de brindar los servicios requeridos para el proceso de datos, como son el preparar los datos y suministros necesarios para la sala de cómputo, manejar los equipos periféricos y vigilar que los elementos del sistema funcionen adecuadamente.
+En esencia, el personal del área operativa se encarga de alimentar datos a la computadora, operar el "hardware" necesario y obtener la información resultante del proceso de datos.
+
+Área administrativa
+El área administrativa está encargada de controlar los recursos económicos para el abastecimiento de materiales especializados tales como: equipo, cintas magnéticas, discos removibles, suministro de energía eléctrica y manuales para el funcionamiento del centro. Esta área también tiene control sobre lo referente a personal y mantenimiento de las instalaciones.
+https://cursos.clavijero.edu.mx/cursos/083_aacc/modulo1/contenido/tema1.4.html?opc=0
+
+
+**DEFINICION PROPIA**
+La organizacion del centro de computo es una jerarquia que genera una dependencia de cada uno de los integrantes del centro de computo. Y podemos observar las siferencias entre si es una organizacion pequeña o una grande.
+Si la organización es pequeña puede ser que incluso el lugar donde se encuentra la computadora pertenezca a algún departamento administrativo.
+En caso de organizaciones de gran tamaño se tiene ya, por lo regular, una infraestructura que permite establecer lineamientos y control sobre las actividades de cómputo para la satisfacción de necesidades de cómputo de la organización.
