@@ -1,0 +1,40 @@
+EJEMPLIFICAR 5 PUNTOS DE COMO OPERAR UN CENTRO DE
+COMPUTO
+
+A)Realizar las copias de respaldo (back-up) de la informacion
+y procesos de computo que se realizan en la direccion, conforme
+a parámetros preestablecidos.
+
+ejemplo.- debo de tener copias de seguridad de todo ya que si
+llega a ocurrir un fallo tenfo de donde recuperar mis 
+procesos e informacion vital del centro
+
+B)velar porque el sistema computarizado se mantenga funcionando
+apropiadamente y estar vigilante para detectar y corregir
+fallas en el mismo.
+
+ejemplo.- debo siempre de hacer mis monitoreos constantes
+esto para disminuir riesgos y que a su vez evitar que estos 
+riesgos se conviertan en problemas.
+
+C)Ejecutar los procesos asignados conforme a los programas
+de produccion y calendarios preestablecidos, dejando el registro
+correspondiente en las solicitudes de proceso.
+
+ejemplo.-tenemos una agenda donde se indica que dias se hace tal cosa
+y en cuales se entregan otras no podemos tener ni dias
+desperdiciados ni atrazos todo debe mantenerse conforme a lo establecido
+en un calendario en tiempo y forma.
+
+D)realizar labores de mantenimiento y limpieza de los equipos del centro de computo
+
+ejemplo.- todos los dias limpio mi espacio de trabajo, no como dentro de mi espacio
+tengo mis utencilios organizados y si hay algo en mal estado se reemplaza de forma 
+inmediata.
+
+E)Mantener informado al jefe inmediato so re el funcionamiento del centro de
+computo
+
+ejemplo.- se hacen informes de la forma de trabajo del centro, sus formas
+de trabajo asi como los errores y fallas que surgen ya que esto sirve para hacer 
+un analisis y actuar de forma inmediata ante un problema.
